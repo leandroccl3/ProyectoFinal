@@ -12,7 +12,7 @@ public class pantalla_2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_pantalla_intro);
+        setContentView(R.layout.activity_pantalla_2);
 
         atras2 = (Button) findViewById(R.id.btn4);
         atras2.setOnClickListener(new View.OnClickListener() {
