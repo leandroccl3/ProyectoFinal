@@ -37,7 +37,7 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="131dp"
-            android:text="Holis" />
+            android:text="Pantalla 2" />
     </RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>
