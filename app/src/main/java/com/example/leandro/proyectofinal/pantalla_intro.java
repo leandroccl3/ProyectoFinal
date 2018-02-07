@@ -26,7 +26,7 @@ public class pantalla_intro extends AppCompatActivity {
         siguiente2.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Intent siguiente_2 = new Intent(pantalla_intro.this, pantalla_inicial.class);
+                Intent siguiente_2 = new Intent(pantalla_intro.this, pantalla_2.class);
                 startActivity(siguiente_2);
             }
         });

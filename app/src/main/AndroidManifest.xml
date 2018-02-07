@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".pantalla_intro"></activity>
+        <activity android:name=".pantalla_intro" />
+        <activity android:name=".pantalla_2"></activity>
     </application>
 
 </manifest>
